@@ -1,4 +1,4 @@
-# Flask MongoDB CRUD APP
+# Flask MongoDB Docker AWS-EC2 CRUD APP (CC - AAT)
 
 
 1. Install all project dependencies
